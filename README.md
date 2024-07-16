@@ -5,7 +5,8 @@
 # // The Greatest Challenge of GTAG
 Can you conquer the heights...?
 
-(This was my very first dimension!) 😎
+**_(This was my very first dimension!)_** 😎
 
-Support me by subscribing to my channel: 
-https://www.youtube.com/@excoir
+<p align="center">
+  <img src="https://i.imgur.com/2et13yW.png"/>
+</p>
